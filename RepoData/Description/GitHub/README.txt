@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid FileCabinet is a file manager app for the Candroid framework/environment. It is a replacement to the Google Files application.
